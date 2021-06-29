@@ -263,3 +263,9 @@ div.bg {
     transform: rotate(-9deg);
   }
 }
+
+.sliderText{
+  font-size: 40px;
+  color: white;
+  font-family: "Broadway"
+}
